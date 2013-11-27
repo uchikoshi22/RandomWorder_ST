@@ -1,0 +1,7 @@
+comment: 
+Label width is modified.
+sort order is changed.
+
+user: UCHIKOSHI Yukitaka
+branch 'default'
+changed app.js

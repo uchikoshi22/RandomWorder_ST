@@ -1,0 +1,25 @@
+comment:
+label width was modified.
+instructions was added
+sort order in list was set
+
+user: UCHIKOSHI Yukitaka
+branch 'default'
+added app.js
+added app.json
+added cache.appcache
+added deltas/app.js/26a6c543f948e6aa740576869c0536ee9f4799fd.json
+added index.html
+added resources/css/app.css
+added resources/icons/Icon.png
+added resources/icons/Icon@2x.png
+added resources/icons/Icon~ipad.png
+added resources/icons/Icon~ipad@2x.png
+added resources/icons/iTunesArtwork.png
+added resources/icons/icon-spot~ipad.png
+added resources/startup/1496x2048.png
+added resources/startup/1536x2008.png
+added resources/startup/320x460.jpg
+added resources/startup/640x920.png
+added resources/startup/748x1024.png
+added resources/startup/768x1004.png
